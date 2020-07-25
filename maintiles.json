@@ -1,0 +1,78 @@
+{
+	"maintiles":[
+	
+	{
+	"id":"mt01",
+	"title":"Permits & Licences",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Permits.jpg",
+	"category":"PermitsAndLicences"
+	},
+		{
+	"id":"mt02",
+	"title":"Parking",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Parking.jpg",
+	"category":"Parking"
+	},
+		{
+	"id":"mt03",
+	"title":"Trees",
+	"image":"http://demo.randomaccess.ca/coc311/Images/TreeRequests.jpg",
+	"category":"Trees"
+	},
+	{
+	"id":"mt04",
+	"title":"Recreation",
+	"image":"http://demo.randomaccess.ca/coc311/Images/RecreationalServices.jpg",
+	"category":"Recreation"
+	},
+	{
+	"id":"mt05",
+	"title":"Water Utility",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Water.jpg",
+	"category":"WaterUtility "
+	},
+		{
+	"id":"mt06",
+	"title":"Civic Services",
+	"image":"http://demo.randomaccess.ca/coc311/Images/civic.jpg",
+	"category":"CivicServices"
+	},
+		{
+	"id":"mt07",
+	"title":"Traffic Tickets & Court Fines",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Tickets.jpg",
+	"category":"TrafficTicketsAndCourtFines"
+	},
+		{
+	"id":"mt08",
+	"title":"Drainage",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Drainage.jpg",
+	"category":"Drainage"
+	},
+		{
+	"id":"mt09",
+	"title":"Property/Noise Concerns",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Taxes.jpg",
+	"category":"PropertyOrNoiseConcerns"
+	},
+			{
+	"id":"mt10",
+	"title":"Litter and Graffiti",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Graffiti.jpg",
+	"category":"LitterAndGraffiti"
+	},
+		{
+	"id":"mt11",
+	"title":"Signs",
+	"image":"http://demo.randomaccess.ca/coc311/Images/signs.jpg",
+	"category":"Signs"
+	},
+		{
+	"id":"mt12",
+	"title":"Parks Light Burnt Out",
+	"image":"http://demo.randomaccess.ca/coc311/Images/Parks.jpg",
+	"category":"ParksLightBurntOut"
+	}
+
+]
+}
