@@ -1,0 +1,156 @@
+{
+	"PermitsAndLicences":[
+
+	{
+	"id":"st01",
+	"title":"Parking permits",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"ParksLightBurntOut"
+	},
+		{
+	"id":"st02",
+	"title":"Dog Pet Licence",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"ParksLightBurntOut"
+	}
+
+],
+	"Parking":[
+
+	{
+	"id":"st01",
+	"title":"Parking permits",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Parking"
+	},
+		{
+	"id":"st02",
+	"title":"Parking Complaints",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Parking"
+	}
+
+],
+	"Trees":[
+
+	{
+	"id":"st01",
+	"title":"Dead/Damaged/Unhealthy Tree",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Trees"
+	},
+	{
+	"id":"st02",
+	"title":"New and Replacement Trees",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Trees"
+	},
+	{
+	"id":"st03",
+	"title":"Tree Ownership Inspection",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Trees"
+	},
+	{
+	"id":"st04",
+	"title":"Private Tree Removal Permit",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Trees"
+	}
+
+],
+	"Recreation":[
+
+	{
+	"id":"st01",
+	"title":"Picnics and Park Events",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Recreation"
+	}
+
+],
+
+	"WaterUtility":[
+
+	{
+	"id":"st01",
+	"title":"Water Quality/Pressure Issues",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"WaterUtility"
+	}
+
+],
+	"CivicServices":[
+
+	{
+	"id":"st01",
+	"title":"Clock Tower Lighting",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"CivicServices"
+	}
+
+],
+	"TrafficTicketsAndCourtFines":[
+
+	{
+	"id":"st01",
+	"title":"raffic Tickets And CourtFines",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/TrafficTickets/",
+	"category":"TrafficTicketsAndCourtFines"
+	}
+
+],
+	"Drainage":[
+
+	{
+	"id":"st01",
+	"title":"Ditch Problems",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/Ditch",
+	"category":"Drainage"
+	}
+
+],
+	"PropertyOrNoiseConcerns":[
+
+	{
+	"id":"st01",
+	"title":"Address Number not Displayed",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"PropertyOrNoiseConcerns"
+	}
+
+],
+
+	"LitterAndGraffiti":[
+
+	{
+	"id":"st01",
+	"title":"Litter And Graffiti",
+	"mapUrl": "https://maps.cambridge.ca/gis/CleanupRequest/",
+	"category":"LitterAndGraffiti"
+	}
+
+],
+	"Signs":[
+
+	{
+	"id":"st01",
+	"title":"Report an illegal Sign",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/ParkingPermits",
+	"category":"Signs"
+	}
+
+],
+
+	"ParksLightBurntOut":[
+
+	{
+	"id":"st01",
+	"title":"Parks Light BurntOut",
+	"mapUrl": "https://maps.cambridge.ca/gis/ServiceRequests/LightOut",
+	"category":"ParksLightBurntOut"
+	}
+
+]
+
+}
