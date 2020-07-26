@@ -1,5 +1,5 @@
 {
-	"PermitsAndLicences":[
+	"Permits_&_Licences":[
 
 	{
 	"id":"st01",
@@ -70,7 +70,7 @@
 
 ],
 
-	"WaterUtility":[
+	"Water_Utility":[
 
 	{
 	"id":"st01",
@@ -80,7 +80,7 @@
 	}
 
 ],
-	"CivicServices":[
+	"Civic_Services":[
 
 	{
 	"id":"st01",
@@ -90,7 +90,7 @@
 	}
 
 ],
-	"TrafficTicketsAndCourtFines":[
+	"Traffic_Tickets_&_Court_Fines":[
 
 	{
 	"id":"st01",
@@ -110,7 +110,7 @@
 	}
 
 ],
-	"PropertyOrNoiseConcerns":[
+	"Property/Noise_Concerns":[
 
 	{
 	"id":"st01",
@@ -121,7 +121,7 @@
 
 ],
 
-	"LitterAndGraffiti":[
+	"Litter_and_Graffiti":[
 
 	{
 	"id":"st01",
@@ -142,7 +142,7 @@
 
 ],
 
-	"ParksLightBurntOut":[
+	"Parks_Light_Burnt_Out":[
 
 	{
 	"id":"st01",
